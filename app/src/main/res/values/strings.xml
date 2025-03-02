@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyKeyboard</string>
+    <string name="ime_name">My Custom Keyboard</string>
+    <string name="subtype_en_US">English (US)</string>
+    <string name="accessibility_service_name">My Keyboard Accessibility Service</string>
+    <string name="accessibility_service_description">Accessibility service for my custom keyboard</string>
+</resources>
